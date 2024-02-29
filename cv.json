@@ -1,0 +1,235 @@
+{
+    "basics": {
+      "name": "Ivan Lafaurie",
+      "label": "Apasionado Full Stack Developer en constante evolución, listo para enfrentar cualquier reto y absorber nuevas tecnologías.",
+      "image": "/me.web.JPG",
+      "email": "ivanlafa98@gmail.com",
+      "phone": "+57 3058099898",
+      "url": "",
+      "summary": "Ingeniero de Sistemas con pasión por el desarrollo web y las aplicaciones digitales. Especializado en el diseño y desarrollo de interfaces front-end utilizando tecnologías como JavaScript, jQuery, CSS y HTML, creando experiencias cautivadoras y funcionales para los usuarios. En el lado del back-end, tengo experiencia con Java 8 y Node.Js, construyendo sistemas robustos y escalables. Mi conocimiento en bases de datos incluye tanto MySQL como PostgreSQL, lo que me permite gestionar eficientemente la información de las aplicaciones y garantizar su integridad y rendimiento. Además, tengo experiencia en la implementación de servicios RESTful y microservicios, lo que me permite crear arquitecturas flexibles y eficientes para aplicaciones web",
+      "location": {
+        "address": "",
+        "postalCode": "020001",
+        "city": "Barranquilla",
+        "countryCode": "COL",
+        "region": "Colombia"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "ivanlafaurie",
+          "url": "https://www.linkedin.com/in/ivan-lafaurie-5a6130225/"
+        },
+        {
+          "network": "GitHub",
+          "username": "ivanlafa",
+          "url": "https://github.com/ivanlafa"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Consware S.A",
+        "position": "Ingeniero de Desarrollo",
+        "url": "https://consware.com.co/",
+        "startDate": "2023-12-01",
+        "endDate": "2023-12-02",
+        "summary": "Desarrallador Frontend. (Maquetacion web avanzada con HTML5 Y SASS y desarrollo frontend con JavaScript y Angular)",
+        "highlights": [
+          ""
+        ]
+      },
+      {
+        "name": "Ingeniería Y Soluciones Especializadas Sas Ises",
+        "position": "Practicante de Ingeniero de Sistemas",
+        "url": "https://ises.com.co/",
+        "startDate": "2022-11-15",
+        "endDate": "2023-07-15",
+        "summary": "Realizar consultas especializadas en el aplicativo designado con el propósito de adquirir información precisa y detallada. Brindar soporte a los usuarios en caso de que encuentren algún inconveniente o dificultad en el funcionamiento del aplicativo móvil, asegurando una pronta resolución de sus problemas.",
+        "highlights": [
+          ""
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universidad de la Costa",
+      "url": "https://www.cuc.edu.co/",
+      "area": "Ingeniero de Sistemas",
+      "studyType": "Profesional",
+      "startDate": "2018-02-01",
+      "endDate": "2023-10-25",
+      "score": "4.0",
+      "courses": [
+        "Diplomado - tecnologias de Software para la industria 4.0"
+      ]
+    },
+    {
+      "institution": "SENA",
+      "url": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
+      "area": "Tecnico en Programacion de Software",
+      "studyType": "Profesional",
+      "startDate": "2017-02-01",
+      "endDate": "2017-12-05",
+      "score": "4.5"
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "The best veterinarian",
+        "isActive": true,
+        "description": "Veterinaria creada con HTML Full Interactiva y totalmente responsive con Css. Incluye incluiye algunas dinamicas con JavaScript",
+        "highlights": [
+          "Cuida a tu mascota",
+          "Veterinaria"
+        ],
+        "url": "https://thebestvet.netlify.app/",
+        "github":"https://github.com/ivanlafa/Veterinaria"
+      },
+      {
+        "name": "Book Cuc",
+        "isActive": true,
+        "description": "Proyecto realizado con React donde implementa multiples funciones tanto como frontend y backend Rutas, Hooks, Props, UseStates, Login con Google",
+        "highlights": [
+          "Multidioma",
+          "Biblioteca"
+        ],
+        "url": "https://bookcuc.netlify.app/",
+        "github":"https://github.com/ivanlafa/BibliotecaCuc"
+
+      },
+      {
+        "name": "Control de Gastos",
+        "isActive": true,
+        "description": "Reto para controlar mejor tus gastos personales",
+        "highlights": [
+          "Gastos",
+          "Programacion",
+          "Reto"
+        ],
+        "url": "https://controlgastos345.netlify.app/",
+        "github":"https://github.com/ivanlafa/Control_Gastos"
+      }
+    ]
+  }
