@@ -28,6 +28,15 @@
       ]
     },
     "work": [
+          {
+        "name": "Ingeniería Y Soluciones Especializadas Sas Ises",
+        "position": "Gestor de base Datos",
+        "url": "https://ises.com.co/",
+        "startDate": "2024-04-01",
+        "endDate": "actual", 
+        "summary": "Manejo de PL",
+        "highlights": []
+        },
       {
         "name": "Consware S.A",
         "position": "Ingeniero de Desarrollo",
